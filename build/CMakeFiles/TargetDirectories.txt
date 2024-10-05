@@ -1,0 +1,5 @@
+/home/jsaez/personal/cpp_projects/own_git/build/CMakeFiles/rebuild_cache.dir
+/home/jsaez/personal/cpp_projects/own_git/build/CMakeFiles/edit_cache.dir
+/home/jsaez/personal/cpp_projects/own_git/build/src/CMakeFiles/rebuild_cache.dir
+/home/jsaez/personal/cpp_projects/own_git/build/src/CMakeFiles/edit_cache.dir
+/home/jsaez/personal/cpp_projects/own_git/build/src/CMakeFiles/own_git.dir

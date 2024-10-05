@@ -1,0 +1,40 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jsaez/personal/cpp_projects/own_git/src/headers/cat_file.h
+iostream
+-
+filesystem
+-
+vector
+-
+
+/home/jsaez/personal/cpp_projects/own_git/src/headers/helpers.h
+iostream
+-
+filesystem
+-
+vector
+-
+
+/home/jsaez/personal/cpp_projects/own_git/src/headers/list_tree.h
+iostream
+-
+vector
+-
+
+/home/jsaez/personal/cpp_projects/own_git/src/list_tree.cpp
+headers/helpers.h
+/home/jsaez/personal/cpp_projects/own_git/src/headers/helpers.h
+headers/cat_file.h
+/home/jsaez/personal/cpp_projects/own_git/src/headers/cat_file.h
+ostream
+-
+headers/list_tree.h
+/home/jsaez/personal/cpp_projects/own_git/src/headers/list_tree.h
+
